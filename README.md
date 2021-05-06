@@ -1,2 +1,2 @@
 # pexeso
-pexeso game with expo images
+pexeso game with @expo/vector-icons
